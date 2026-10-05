@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 Mobile, backend and ML enthusiast.<br>🤝 Willing to contribute to mobile and AI projects.<br>🌱 Learning Machine Learning and System Design.<br>⚡ Coding, crafting, experimenting.
 
 
